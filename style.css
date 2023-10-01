@@ -1,0 +1,287 @@
+
+* {
+    margin: 4px -20px -54px 49px;;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+    overflow-x: hidden; 
+}
+header {
+    background-color: #000000;
+    padding: 9px 86px 16px 227px;
+    border-bottom: #44D62C solid 2px;
+    margin: 12px -173px 20px -97px;
+    
+
+}
+.Logo{
+    margin: -6px 17px 9px 44px;
+    padding: 0px 0px 9px 7px;
+}
+.Logo img {
+    width: 100px;
+    height: auto;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: -22px 30px 41px 46px;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.nav a {
+    text-decoration: none;
+    color: #888;
+    font-weight: bold;
+    font-family:Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 42px;
+    padding-top: 4px;
+    text-transform: none;
+}
+.nav a:hover {
+    color: var(--cx-color-primary);
+}
+.nav button{
+    width: 0px;
+    height: auto;
+    color: #000000;
+}
+.nav img{
+    height: 102px;
+    width: auto;
+    padding: 8px 41px 28px 1px;
+}
+.secheader{
+    margin: 24px 24px -15px 171px;
+    padding: 0px 30px 2px 51px;
+}
+.text1{
+    grid-column: 1/span 8;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    font-family: Helvetica Neue,Arial,Noto Sans,sans-serif;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    padding: 0.5rem 0;
+    margin: 0;
+
+}
+.goto {
+    padding: -3px 64px 1014px;
+    margin: 0px 56px 52px 1016px;
+    justify-content: center;
+    display: flex;
+    font-family: Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.buybtn{
+    height: 23px;
+    width: 54px;
+    color: black;
+    background-color: #2FF327;
+    border-radius: 15px;
+    border-style: none;
+    border: none;
+    cursor: pointer;
+    font-weight: bolder;
+    font-family: Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.border-box {
+    padding: 5px 74px 27px 440px;
+    background-color: #555555;
+    margin: -7px -143px 36px -103px;
+}
+.border-box p {
+    color:white;
+    font-weight: lighter;
+    font-family: Helvetica Neue,Arial,Noto Sans,sans-serif ;
+    padding: 0px 0px 0px 74px;
+    
+}
+.background img{
+    margin: -37px 40px 68px -94px;
+}
+.body2{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px ;
+}
+.heading p{
+    padding: 127px 50px 101px 545px;
+    margin: -9px 26px 18px 649px;
+    color: #fff;
+    font: 100 1.5rem/1.5rem "Titillium Web",RazerF5,Arial,Helvetica,sans-serif;
+    margin: 0;
+    text-transform: uppercase;
+}
+.secbodydiv h2{
+    padding: -12px 7px 0px 0px;
+    margin: 17px 32px 83px 433px;
+    font: 700 4.5rem/1 "Titillium Web",RazerF5,Arial,Helvetica,sans-serif;
+    color: #ef612f!important;
+
+}
+.descrpition h4{
+    padding: 0px 0px 0px 530px;
+    margin: 0px 0px 0px 630px;
+    color: #fff;
+    font: bold 1.5rem/1.875rem Roboto;
+    margin: 0;
+}
+.secbodydiv2 h2{
+    padding: -12px 7px 0px 0px;
+    margin: 17px 32px 83px 637px;
+    font: 700 4.5rem/1 "Titillium Web",RazerF5,Arial,Helvetica,sans-serif;
+    color: #ef612f!important;
+
+}
+.des{
+    padding: 9px 44px 188px 289px;
+    margin: 79px 73px -96px 161px;
+
+}
+.des p{
+    font: normal 1.125rem/1.5rem Roboto;
+    color: #9a9a9a;
+}
+.des2 p{
+    padding: 46px 18px 19px 184px;
+    margin: 0px 0px 0px 0px;
+}
+.lamlo{
+    padding: 0px 0px 0px 760px;
+    margin: 0px 0px 0px 0px;
+
+}
+.logo1{
+    padding: 103px 110px 27px 705px;
+    margin: 0px 0px 0px -12px;
+}
+.logo2{
+    padding: 13px 129px 20px 865px;
+    margin: -65px 0px 0px -12px;
+}
+.logo3{
+    padding: 49px 190px 44px 1109px;
+    margin: -121px 39px 16px 4px;
+}
+.logosdes{
+    padding: 7px 13px 15px 44px;
+    margin:0px 0px 0px 0px;
+}
+.logos{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 9px -31px;
+}
+.vid{
+    padding: 0px 0px 98px 0px;
+    margin: -119px 0px 29px 424px;
+
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #111;
+    width: 2364px;
+    height: 350px;
+    padding: 20px 39px 0px 0px;
+    
+    margin: 5px 27px -8px -110px;
+    text-align: center;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    margin:  426px 765px 10px 177px;
+    font-weight: 400;
+    color: #888;
+    max-width: 100%;
+}
+
+
+.sechead {
+    margin: -353px 494px 0px 0px;
+    
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.numbered-paragraphs {
+    counter-reset: paragraph-counter;
+}
+
+.numbered-paragraphs p {
+    counter-increment: paragraph-counter;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    text-indent: 0;
+}
+
+.numbered-paragraphs p::before {
+    content: counter(paragraph-counter) ". ";
+    font-weight: bold;
+    color: #888;
+    margin-right: 5px;
+}
+
+.container section {
+
+    padding: 20px 20px 9px 325px;
+    border-radius: 5px;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 0;
+    font-family:oboto,Helvetica Neue,Arial,Noto Sans,sans-serif,apple color emoji,segoe ui emoji,Segoe UI Symbol,noto color emoji;
+    margin: 199px -68px 10px -113px;
+
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding:  20px 219px 0px 0px;
+}
+
+.footer-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-menu li {
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+.footer-menu a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.footer-menu a:hover {
+    text-decoration: underline;
+}
